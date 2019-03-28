@@ -1,0 +1,1 @@
+Create table if not exists order_items(id int primary key auto_increment ,order_id int not null,sku varchar(32));
